@@ -4,6 +4,8 @@
 - Make sure Python is installed in your computer, then runn the below script in a terminal to install the dependencies that enables the control of CoppeliaSim with Python
 > python3 -m pip install Coppeliasim-zmqremoteapi-client
 
+- Install opencv. It is preferred to install in anaconda as i had problems installing in virtual environment on windows
+
 - The next time you open CoppeliaSim, you will be asked to select between Lua (the difault programming language) and Python. Please choose Python.
 
 - To run CoppeliaSim without GUI use
